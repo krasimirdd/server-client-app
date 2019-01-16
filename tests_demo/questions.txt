@@ -1,0 +1,3 @@
+Q1: (1+5)/3 = ?
+Q2: 2 * lg10 = ?
+Q2: This is question number ... ?
